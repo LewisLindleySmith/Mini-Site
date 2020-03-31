@@ -39,7 +39,7 @@ nav, ul, li {
 .container-1, .container-2, .container-3{
     display: flex;
     position: relative;
-    
+    padding: 50px 200px;  
 }
 
 h3 {
