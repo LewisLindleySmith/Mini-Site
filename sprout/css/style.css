@@ -26,11 +26,6 @@ nav, ul, li {
     margin: 14pt 0 0 0;
 }
 
-.banner-image {
-    position: absolute;
-    z-index: 1;
-}
-
 .banner-text {
     position: absolute;
     z-index: 2;
@@ -38,6 +33,10 @@ nav, ul, li {
     left: 210px;
     color: #f4f4f4;
     font-size: 20pt;
-    margin: 0 290pt;
-    
+    margin: 0 290pt;   
+}
+
+.container-1, .container-2, .container-3{
+    display: flex;
+    position: relative;
 }
