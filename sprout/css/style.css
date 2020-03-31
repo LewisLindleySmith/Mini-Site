@@ -6,3 +6,10 @@ body {
     font-family: montserrat;
 }
 
+nav, ul, li {
+    font-family: ptsans;
+    text-transform: uppercase;
+    list-style-type: none;
+    font-size: 16pt;
+    font-weight: 700;
+}
