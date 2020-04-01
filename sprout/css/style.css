@@ -7,8 +7,9 @@ body {
 }
 
 p {
-    font-family: ptsans;
-    font-size: 16pt;
+    font-family: pt sans;
+    font-size: 11pt;
+    font-weight: 400;
 }
 
 .first-container {
@@ -22,6 +23,7 @@ p {
 
 nav, ul, li {
     font-family: pt sans;
+    font-weight: 700;
     text-transform: uppercase;
     list-style-type: none;
     font-size: 16pt;
@@ -57,4 +59,15 @@ h3 {
 
 .container-text {
     padding: 0 50px 0 0;
+}
+
+footer {
+    background-color: #323545;
+    text-align: center;
+    padding: 50pt;
+    color: #ffffff;
+}
+
+.footer-menu {
+    padding: 50px 0 0 0;
 }
