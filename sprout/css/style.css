@@ -21,24 +21,24 @@ p {
 }
 
 nav, ul, li {
-    font-family: ptsans;
+    font-family: pt sans;
     text-transform: uppercase;
     list-style-type: none;
-    font-size: 14pt;
+    font-size: 16pt;
     font-weight: 700;
     display: inline;
-    padding: 14pt;
+    padding: 12pt;
     margin: 14pt 0 0 0;
 }
 
 .banner-text {
     position: absolute;
     z-index: 2;
-    top: 320px;
+    top: 290px;
     left: 210px;
     color: #f4f4f4;
-    font-size: 15pt;
-    margin: 0 290pt;   
+    font-size: 20pt;
+    margin: 0 200pt 0 145pt;  
 }
 
 .container-1, .container-2, .container-3{
