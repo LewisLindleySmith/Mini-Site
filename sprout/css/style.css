@@ -32,7 +32,7 @@ h3 {
 
 /* nav */
 
-.first-container {
+.nav-section{
     display: flex;
     position: relative;
 }
@@ -67,6 +67,15 @@ li {
     height: 600px;
 }
 
+.banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+}
+
+/* container section */
 
 .container-1, .container-2, .container-3{
     display: flex;
