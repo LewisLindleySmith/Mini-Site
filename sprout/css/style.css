@@ -77,19 +77,9 @@ li {
 
 /* container section */
 
-.container-1, .container-2, .container-3{
-    display: flex;
-    position: relative;
-    padding: 50px 220px;  
-}
 
-.container-1, .container-3 {
-    background-color: #f6f6f6;
-}
 
-.container-text {
-    padding: 0 50px 0 0;
-}
+/* footer section  */
 
 footer {
     background-color: #323545;
