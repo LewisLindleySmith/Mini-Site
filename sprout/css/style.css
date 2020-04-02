@@ -76,13 +76,7 @@ li {
 
 /* container section */
 
-.section-1, .section-2, .section-3 {
-    display: flex;
-    position: relative;
-    width: 1200px;
-}
-
-.section-1, .section-3 {
+.bg-color {
     background-color: #f6f6f6;
 }
 
