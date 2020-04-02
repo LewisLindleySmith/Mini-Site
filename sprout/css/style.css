@@ -65,7 +65,7 @@ li {
 }
 
 .nav-bar a:hover{
-    border-bottom: 2px solid #da408d;
+    border-bottom: 3px solid #da408d;
     cursor: pointer;
     transition: ease-in-out .35s ;
 }
