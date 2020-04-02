@@ -101,10 +101,13 @@ li {
 /* use for possitioning */
 .container-text {
     width: 50%;
+    margin: auto;
+    padding: 40px;
 }
 
 .container-image {
     width: 50%;
+    margin: auto;
 }
 
 /* footer section  */
