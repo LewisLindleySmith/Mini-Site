@@ -86,9 +86,25 @@ li {
 
 /* container section */
 
+.container {
+    width: 1200px;
+    display: flex;
+    justify-content: space-around;
+    padding: 120px 0;
+    align-items: center;
+    margin: auto;
+}
 
 .bg-color {
     background-color: #f6f6f6;
+}
+/* use for possitioning */
+.container-text {
+    width: 50%;
+}
+
+.container-image {
+    width: 50%;
 }
 
 /* footer section  */
