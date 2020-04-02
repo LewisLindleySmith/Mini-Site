@@ -58,6 +58,11 @@ li {
     padding: 0 15px;
 }
 
+.nav-bar li:hover{
+    border-bottom: 2px solid #da408d;
+    cursor: pointer;
+}
+
 /* banner section */
 
 .banner-section {
@@ -80,9 +85,6 @@ li {
 
 /* container section */
 
-.section {
-
-}
 
 .bg-color {
     background-color: #f6f6f6;
